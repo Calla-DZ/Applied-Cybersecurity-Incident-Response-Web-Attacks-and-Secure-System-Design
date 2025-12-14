@@ -3,7 +3,7 @@ This repository showcases a hands-on cybersecurity project simulating a real-wor
 
 
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 Investigate and document a simulated security incident in a financial environment
 
@@ -18,8 +18,8 @@ Critically analyse access control approaches and enterprise security models
 
 
 
-# 🛡️ Key Areas Covered
-🔍 Security Incident Response
+#  Key Areas Covered
+  🔍 Security Incident Response
 
 Incident reporting and documentation
 
@@ -58,7 +58,7 @@ Review of related academic and industry research
 
 
 
-# 🧠 Skills Demonstrated
+#   Skills Demonstrated
 
 Security Incident Response & Reporting
 
@@ -76,7 +76,7 @@ Risk assessment and critical analysis
 
 Technical documentation and evidence handling
 
-# 🛠️ Tools & Technologies (Example – adjust if needed)
+#   Tools & Technologies 
 
 Linux & Windows environments
 
@@ -90,7 +90,7 @@ Security frameworks and best practices
 
 Screenshots and logbook-based forensic documentation
 
-# 📚 Methodologies & Standards
+#   Methodologies & Standards
 
 Incident response lifecycle
 
